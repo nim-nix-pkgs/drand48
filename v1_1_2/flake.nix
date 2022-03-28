@@ -11,7 +11,6 @@
   inputs.src-drand48-v1_1_2.ref   = "refs/tags/v1.1.2";
   inputs.src-drand48-v1_1_2.owner = "JeffersonLab";
   inputs.src-drand48-v1_1_2.repo  = "drand48";
-  inputs.src-drand48-v1_1_2.dir   = "";
   inputs.src-drand48-v1_1_2.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

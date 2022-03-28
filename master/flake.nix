@@ -11,7 +11,6 @@
   inputs.src-drand48-master.ref   = "refs/heads/master";
   inputs.src-drand48-master.owner = "JeffersonLab";
   inputs.src-drand48-master.repo  = "drand48";
-  inputs.src-drand48-master.dir   = "";
   inputs.src-drand48-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
