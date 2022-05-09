@@ -7,7 +7,7 @@
   "license": "BSD3",
   "web": "https://github.com/JeffersonLab/drand48",
   "refs": [
-    "fatal: unable to access 'https://github.com/JeffersonLab/drand48/': HTTP/2 stream 1 was not closed cleanly before end of the underlying stream",
+    "fatal: unable to access 'https://github.com/JeffersonLab/drand48/': OpenSSL SSL_read: Network is unreachable, errno 101",
     ""
   ],
   "heads": []
